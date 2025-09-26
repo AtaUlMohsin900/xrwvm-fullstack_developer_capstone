@@ -57,7 +57,7 @@ React Official Docs
 🔧 Additional Resources
 
 Code Splitting
-Read More
+[Read More](https://create-react-app.dev/docs/code-splitting/)
 
 Analyzing Bundle Size
 Read More
