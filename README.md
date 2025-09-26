@@ -2,11 +2,11 @@
 
 This project was initialized using Create React App, a popular setup tool for modern React applications.
 
-📜 Available Scripts
+## Available Scripts
 
 Inside the project directory, you can run the following commands:
 
-npm start
+### npm start
 
 Starts the development server.
 Open http://localhost:3000
@@ -16,12 +16,12 @@ The app reloads automatically when changes are made.
 
 Any linting issues will be shown in the console.
 
-npm test
+### npm test
 
 Runs tests in interactive watch mode.
 Refer to the testing section in the documentation for more details.
 
-npm run build
+### npm run build
 
 Creates an optimized production build in the build folder.
 
@@ -34,9 +34,9 @@ Your app will be ready for deployment.
 For deployment guidance, see the Deployment documentation
 .
 
-npm run eject
+### npm run eject
 
-⚠️ This action is irreversible!
+## This action is irreversible!
 
 Running this command will eject your app, giving you full control over the configuration (e.g., Webpack, Babel, ESLint, etc.).
 
@@ -48,13 +48,13 @@ Note: All other commands will still work, but they will now refer to the custom 
 
 You likely won't need to eject for most small or mid-size projects, but it's there if you need deeper customization.
 
-📚 Learn More
+## Learn More
 
 Create React App Documentation
 
 React Official Docs
 
-🔧 Additional Resources
+#### Additional Resources
 
 Code Splitting
 [Read More](https://create-react-app.dev/docs/code-splitting/)
