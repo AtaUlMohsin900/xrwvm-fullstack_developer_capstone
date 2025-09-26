@@ -57,11 +57,10 @@ React Official Docs
 🔧 Additional Resources
 
 Code Splitting
-[Read More]
-(https://create-react-app.dev/docs/code-splitting/)
+[Read More](https://create-react-app.dev/docs/code-splitting/)
 
 Analyzing Bundle Size
-Read More
+[Read More](https://create-react-app.dev/docs/analyzing-the-bundle-size/)
 
 Progressive Web App (PWA) Support
 Read More
