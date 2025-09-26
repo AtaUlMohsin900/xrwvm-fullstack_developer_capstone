@@ -63,12 +63,13 @@ Analyzing Bundle Size
 [Read More](https://create-react-app.dev/docs/analyzing-the-bundle-size/)
 
 Progressive Web App (PWA) Support
-Read More
+[Read More](https://create-react-app.dev/docs/making-a-progressive-web-app/)
 
 Advanced Configuration
-Read More
+[Read More](https://create-react-app.dev/docs/advanced-configuration/)
 
 Deployment Instructions
-Read More
+[Read More](https://create-react-app.dev/docs/deployment/)
 
 Troubleshooting: Build Fails to Minif
+[Read More](https://create-react-app.dev/docs/troubleshooting/#npm-run-build-fails-to-minify/)
