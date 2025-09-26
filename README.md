@@ -1,4 +1,4 @@
-🚀 Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was initialized using Create React App, a popular setup tool for modern React applications.
 
